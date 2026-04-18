@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.19.1](https://github.com/agentclientprotocol/typescript-sdk/compare/v0.19.0...v0.19.1) (2026-04-18)
+
+
+### Bug Fixes
+
+* Flush decoder state at end of NDJSON stream ([#119](https://github.com/agentclientprotocol/typescript-sdk/issues/119)) ([4e1b07a](https://github.com/agentclientprotocol/typescript-sdk/commit/4e1b07aab3fbbcc5b2c0bfbfa0adc63e1aa53f92))
+
 ## [0.19.0](https://github.com/agentclientprotocol/typescript-sdk/compare/v0.18.2...v0.19.0) (2026-04-14)
 
 
